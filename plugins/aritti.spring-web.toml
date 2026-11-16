@@ -9,3 +9,8 @@ sha256 = "05365076b7664da3287e9ecb853534c7fdfcb810c74f7dde8a5412c65a23ddde"
 version = "0.2.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-web-v0.2.0/aritti.spring-web-0.2.0.oiplugin"
 sha256 = "092aab9cd96fa30344b7328b63735819cfe0b83585cdb91c9bb182e4f1501939"
+
+[[versions]]
+version = "0.3.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-web-v0.3.0/aritti.spring-web-0.3.0.oiplugin"
+sha256 = "e8a0b353d746fd2fc7074188a1f70893079a53ffa5d8353162e90a33ca9153af"
