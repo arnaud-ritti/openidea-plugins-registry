@@ -1,0 +1,6 @@
+repository = "https://github.com/arnaud-ritti/openidea-plugins"
+
+[[versions]]
+version = "0.2.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/ddev-v0.2.0/aritti.ddev-0.2.0.oiplugin"
+sha256 = "b1a15c092458d8437cb5a5fb9c1d471f9f9510454e59a3948fed97698f4b8c12"
