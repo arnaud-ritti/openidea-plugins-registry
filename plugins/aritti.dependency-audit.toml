@@ -9,3 +9,8 @@ sha256 = "567b14bf5089d725440d2ebd71473565298bb12a8f1c527994b9082cda4c5e5b"
 version = "0.2.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/dependency-audit-v0.2.0/aritti.dependency-audit-0.2.0.oiplugin"
 sha256 = "b0c2e0494877574c4dc5ef2c84261650b5b311f8d8e70bb8022e158707df8dfc"
+
+[[versions]]
+version = "0.3.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/dependency-audit-v0.3.0/aritti.dependency-audit-0.3.0.oiplugin"
+sha256 = "eb92b762c057d1246965f31ea70b93f931db01c091915ad8bc882fbdf936c140"
