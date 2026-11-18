@@ -14,3 +14,8 @@ sha256 = "b500a2eb2a2dc3983911554a976f6aaa908dceef397b536449a5587ffcc21606"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-ws-v0.3.0/aritti.spring-ws-0.3.0.oiplugin"
 sha256 = "15e760af015a323ec64bfac6b119879d86bc709e948b9e48f40b704efb748fc7"
+
+[[versions]]
+version = "0.3.1"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-ws-v0.3.1/aritti.spring-ws-0.3.1.oiplugin"
+sha256 = "0af8c00edaa25a8e59954c8986a176521d5231dc2fa357fc2af243c46725348a"
