@@ -14,3 +14,8 @@ sha256 = "7864ac8e5acacff82b3b4d7f7d187cc22b97a25d81b4ba0c4f315dda766180f5"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/flyway-v0.3.0/aritti.flyway-0.3.0.oiplugin"
 sha256 = "c110bf3b104fbb292d52a5926f3e7e2e3e144a1c6eb6dac6cef29ce3f1b53dad"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/flyway-v0.4.0/aritti.flyway-0.4.0.oiplugin"
+sha256 = "1bd70382081f5063eea4ff8ae5ba128ed2013b3f17bb0287bf360ee9ab231328"
