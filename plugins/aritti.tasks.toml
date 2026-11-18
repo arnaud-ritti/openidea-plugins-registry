@@ -14,3 +14,8 @@ sha256 = "8d3052b0eb959da2e4758ddfee359e8fd249c8febf2af401c0b015c8409be6e9"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/tasks-v0.3.0/aritti.tasks-0.3.0.oiplugin"
 sha256 = "4881ab2f4ef23d560ec3e86e5bf7ef92e88ed8fa631445a69a1904e262987983"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/tasks-v0.4.0/aritti.tasks-0.4.0.oiplugin"
+sha256 = "664ff92132f139b3d19660b58a2a3fa3b941896963c05e4714c26512fe64dab2"
