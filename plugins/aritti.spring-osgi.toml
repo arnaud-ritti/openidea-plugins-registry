@@ -14,3 +14,8 @@ sha256 = "e3a960f5ac028cc2ea126695338e37713768fdd1814ac56b6b481f717a2206cb"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-osgi-v0.3.0/aritti.spring-osgi-0.3.0.oiplugin"
 sha256 = "ead329bd67d4dfe80dca90c6e6178e5d90e3fe22a1095dd1cf30e89839cc3bc9"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-osgi-v0.4.0/aritti.spring-osgi-0.4.0.oiplugin"
+sha256 = "7d7dc95a15073b5d9a087f02a731eedf68678db565a5e497cff304085d210359"
