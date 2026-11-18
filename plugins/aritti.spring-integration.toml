@@ -14,3 +14,8 @@ sha256 = "19921b938ed02502ab0229b73a6dbc92ab00f55a06d5c503b89d5b38d5cbb291"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-integration-v0.3.0/aritti.spring-integration-0.3.0.oiplugin"
 sha256 = "8baf1fa97ae9198db7eda3107925df9206be09448fdcf849deee68e32fdee520"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-integration-v0.4.0/aritti.spring-integration-0.4.0.oiplugin"
+sha256 = "70a12841df4c64b9fc379103fe7313aa098cbcdd4292d5e6f5d86faf523cb793"
