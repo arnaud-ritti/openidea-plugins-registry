@@ -14,3 +14,8 @@ sha256 = "10c897751de8023810e4a949ef66ac1fce29296faac60f91bfbac1a6f003e3d7"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/dotenv-v0.3.0/aritti.dotenv-0.3.0.oiplugin"
 sha256 = "b6ffcd1c5e5b802672fd27aabcb18b5d69e82234a086737a53cdde8c4087daf8"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/dotenv-v0.4.0/aritti.dotenv-0.4.0.oiplugin"
+sha256 = "02927879c7affcad274fbc7a3df88ff0a6ae1f104b417c22d25bce2d002daef2"
