@@ -14,3 +14,8 @@ sha256 = "d067752b0d9e35ee716d7223c994ccda009e768dd6b617c021a164b93e69d117"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/blade-v0.3.0/aritti.blade-0.3.0.oiplugin"
 sha256 = "68b88f4a3636ddab0536fcee70b3159a05c276749a7258fd516df4b1d4f49b9f"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/blade-v0.4.0/aritti.blade-0.4.0.oiplugin"
+sha256 = "574cc1424521dcf13f3cb7327ab8010787887e4750b4a2ac12ff544b4b1dceb5"
