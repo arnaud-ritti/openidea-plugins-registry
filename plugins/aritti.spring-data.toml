@@ -14,3 +14,8 @@ sha256 = "04e4946d55a4012452e2118ad10819e3e60d6f604dd2f36aab8f7e3448855829"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-data-v0.3.0/aritti.spring-data-0.3.0.oiplugin"
 sha256 = "f3feda8b0bf9bf67c6c96cd16a816c36da7ee0b353a721786a3b8b2c56f924ff"
+
+[[versions]]
+version = "0.3.1"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-data-v0.3.1/aritti.spring-data-0.3.1.oiplugin"
+sha256 = "2120b6310039035a789520182a38db17b1c3d35357cc5d753e1b5d712078ed26"
