@@ -14,3 +14,8 @@ sha256 = "c939878c4c30c732fa641567a93579419a2c39b902f5dafff7e8975faebfc13d"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/twig-v0.3.0/aritti.twig-0.3.0.oiplugin"
 sha256 = "30836077a46934f3413808cf0704aef42bc9432bad984ba955ca9cbc78ac5108"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/twig-v0.4.0/aritti.twig-0.4.0.oiplugin"
+sha256 = "960378070b504401c6509f3570afac23cee5737f12ef7a4bbec38e8a18602386"
