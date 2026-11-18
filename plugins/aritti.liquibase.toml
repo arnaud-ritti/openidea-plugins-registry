@@ -14,3 +14,8 @@ sha256 = "e1edc79a3b326980a43f22958aa9b90a5c2598fc17e0dc47c058e73c7ea8072c"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/liquibase-v0.3.0/aritti.liquibase-0.3.0.oiplugin"
 sha256 = "b27a8ea69b2869d2dad568209595c2e75e4287df70680afa512fe656690da912"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/liquibase-v0.4.0/aritti.liquibase-0.4.0.oiplugin"
+sha256 = "bb1fbd5b3e1becac7a36726dd35c73877e83350c3102d582a59cb0e7a470d6c5"
