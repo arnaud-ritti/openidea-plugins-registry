@@ -14,3 +14,8 @@ sha256 = "98f02ab64f0d9a9db300a82f88acacbb752bbd459586a37b22d3fb554e80b49b"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/ignore-v0.3.0/aritti.ignore-0.3.0.oiplugin"
 sha256 = "59e2e5cd468e3acfc147bdbe4a6e7bad6647ab7154956732bcbbacd5a31b3425"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/ignore-v0.4.0/aritti.ignore-0.4.0.oiplugin"
+sha256 = "f1048a0afb10872d8301505bd3335a85c6fd212068238efd2804a2391645f0e9"
