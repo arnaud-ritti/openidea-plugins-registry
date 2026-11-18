@@ -14,3 +14,8 @@ sha256 = "0eefb16eac024ceb64aefec2ffc2e38810e577a80144d998f398b2b50703a7d0"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/devcontainer-v0.3.0/aritti.devcontainer-0.3.0.oiplugin"
 sha256 = "227fc0cdc9ba75c34221344dcf74cc597ace16c107148378ceed9cd512acc617"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/devcontainer-v0.4.0/aritti.devcontainer-0.4.0.oiplugin"
+sha256 = "29a8b65b5a6a027132981c400351e762e9d1d4ceb41a62b8e6960e3f2ca6e13b"
