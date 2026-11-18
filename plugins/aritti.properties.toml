@@ -14,3 +14,8 @@ sha256 = "d1d2e01528601d79049e21c1e8ef813f0a184ca468b8ec0527cca4e2b7d5df9d"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/properties-v0.3.0/aritti.properties-0.3.0.oiplugin"
 sha256 = "d3daf8e0cde73273bfdfbf9981c3920868fba19162d968d4d5c31881de02103f"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/properties-v0.4.0/aritti.properties-0.4.0.oiplugin"
+sha256 = "93202095621cd6fe4a44b082c5e9311e0f12186b73d840c57cae98ded21c9e91"
