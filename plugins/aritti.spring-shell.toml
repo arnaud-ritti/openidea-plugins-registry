@@ -19,3 +19,8 @@ sha256 = "0fbe13f5cd3aa217565c8a904983180c6a2e9179585134028c2cf4c75b7c3ad9"
 version = "0.3.1"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-shell-v0.3.1/aritti.spring-shell-0.3.1.oiplugin"
 sha256 = "0242f67fa565580bc4772c2b6e79929b94cd2ad8612c3db19925d831a076dfbb"
+
+[[versions]]
+version = "0.3.2"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-shell-v0.3.2/aritti.spring-shell-0.3.2.oiplugin"
+sha256 = "52508d54a2a655949c661cd88224ebb47527cad981fec10f16d2be1da4a12d3b"
