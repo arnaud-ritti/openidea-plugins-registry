@@ -19,3 +19,8 @@ sha256 = "0599305cbfc4edf8ab4c5013cc8dcdce1f81459a8ddaeec4ff6aa3f712ea115a"
 version = "0.4.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-runtime-v0.4.0/aritti.spring-runtime-0.4.0.oiplugin"
 sha256 = "6976f97b0c0126dd0cca6e5121e76fef7f1a1062ba779da69c7a63adc7b6b0cb"
+
+[[versions]]
+version = "0.4.1"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/spring-runtime-v0.4.1/aritti.spring-runtime-0.4.1.oiplugin"
+sha256 = "0458d72ff6b3468b28c08756226a12c2b9778f7c0122d031765d9b842eff98ce"
