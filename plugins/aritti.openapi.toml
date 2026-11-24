@@ -19,3 +19,8 @@ sha256 = "07a705e2f9a35687a0b5f55566f89ed173e82a33c84d4fbb7d10e6c610fbfec0"
 version = "0.4.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/openapi-v0.4.0/aritti.openapi-0.4.0.oiplugin"
 sha256 = "20fc704369b3b148d7c3630072426e9c5c8f745988d2915bc97464bbe6080a51"
+
+[[versions]]
+version = "0.5.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/openapi-v0.5.0/aritti.openapi-0.5.0.oiplugin"
+sha256 = "239e3e49b202aefa0e8aaee93ba9a004d0c58448971ef2cb6767c98337032046"
