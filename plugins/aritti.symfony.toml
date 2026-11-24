@@ -19,3 +19,8 @@ sha256 = "fdfae6d1fa8196b4a2b9c30396cef2916d8760c79b1e671601cf37548a39808a"
 version = "0.4.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/symfony-v0.4.0/aritti.symfony-0.4.0.oiplugin"
 sha256 = "39c54cc3b3d9844ba31f44bcf3a2b3a9853bad53c85319b59e6d13218e370b10"
+
+[[versions]]
+version = "0.5.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/symfony-v0.5.0/aritti.symfony-0.5.0.oiplugin"
+sha256 = "089805e43413a1ca28e8db224fee5fb952ea26c0c405912d6b3a65945ae3d337"
