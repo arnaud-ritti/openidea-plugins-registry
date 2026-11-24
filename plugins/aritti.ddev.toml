@@ -9,3 +9,8 @@ sha256 = "b1a15c092458d8437cb5a5fb9c1d471f9f9510454e59a3948fed97698f4b8c12"
 version = "0.3.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/ddev-v0.3.0/aritti.ddev-0.3.0.oiplugin"
 sha256 = "53b9621123cbc789ff896870cd6916e0184d25a4d8912a391a2a80418f3be05a"
+
+[[versions]]
+version = "0.4.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/ddev-v0.4.0/aritti.ddev-0.4.0.oiplugin"
+sha256 = "caa23486e4086e9198206ece3ebc74da06d9f6b98deda02f227a2be3f97ee070"
