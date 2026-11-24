@@ -19,3 +19,8 @@ sha256 = "73970c0e3b2d80f460888e747804bfb8d442eb94e2f374891d48e8c6755207e8"
 version = "0.4.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/gitlab-v0.4.0/aritti.gitlab-0.4.0.oiplugin"
 sha256 = "a4b56dfa7c7175b839b3c688f15ad64cd5b11a7fa6292baa742bc0c5809e6407"
+
+[[versions]]
+version = "0.5.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/gitlab-v0.5.0/aritti.gitlab-0.5.0.oiplugin"
+sha256 = "b117d227e7fa37642fd913996635aa8d5091cca47deb413069daa47ec0dcefd9"
