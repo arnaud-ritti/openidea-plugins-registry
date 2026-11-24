@@ -19,3 +19,8 @@ sha256 = "90e1e67918086ab9ee9c270bbd668ec3041c9614c2979a8d6f04b5d02f6b3dde"
 version = "0.4.0"
 package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/laravel-v0.4.0/aritti.laravel-0.4.0.oiplugin"
 sha256 = "6aa79d0f49ed70133aded76a38119ceada0569c3b3bd021a2e73658895ebb79d"
+
+[[versions]]
+version = "0.5.0"
+package = "https://github.com/arnaud-ritti/openidea-plugins/releases/download/laravel-v0.5.0/aritti.laravel-0.5.0.oiplugin"
+sha256 = "122af0cb353cf76d8632c3ee0beea0a2542b3c5275ae12578512a27a0b660cee"
